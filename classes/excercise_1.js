@@ -9,7 +9,6 @@ class Employee {
     promote(newJobTitle, newPayRate){
        this.jobTitle = newJobTitle 
        this.payRate = newPayRate 
-
     }
 }
 
